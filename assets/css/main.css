@@ -3946,3 +3946,12 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+.llc {
+	background-color: black;
+	text-align: center;
+}
+
+.llc:hover {
+	box-shadow: 2px 5px 8px grey;
+}
