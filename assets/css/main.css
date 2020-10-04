@@ -2307,6 +2307,12 @@ input, select, textarea {
 					}
 
 				}
+			
+				ul.about-me-icons {
+					cursor: default;
+					list-style: none;
+					padding-left: 0;
+				}
 
 				ul.about-me-icons {
 					cursor: default;
